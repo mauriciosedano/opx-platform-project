@@ -1,0 +1,1173 @@
+edad;sexo;departamento_nacimiento;municipio_nacimiento;diploma_educacion;campaña;campaña_fecha;poblacion;comuna_residencia;zona_residencia;cali_nacimiento;codigo_barrio_residencia;nombre_barrio_residencia;comuna
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1111;20 de Julio;11
+43.0;Hombre;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;11;;Si;1111;20 de Julio;11
+18.0;Mujer;Valle del Cauca;Buenaventura;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1109;Aguablanca;11
+32.0;Mujer;Antioquia;Ituango;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;199;Aguacatal;1
+19.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;199;Aguacatal;1
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;199;Aguacatal;1
+32.0;Mujer;Antioquia;Ituango;Técnica profesional;encuentas;25MAR2018;Técnico administración;1;;No;199;Aguacatal;1
+33.0;Hombre;Valle del Cauca;Buenaventura;Profesional;encuentas;25MAR2018;Técnico administración;1;;No;199;Aguacatal;1
+38.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;1;;Si;199;Aguacatal;1
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;901;Alameda;9
+33.0;Hombre;Archipiélago de San Andrés;San Andrés;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1204;Alfonso Barberena A.;12
+62.0;Mujer;Cauca;Caldono;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1401;Alfonso Bonilla Aragón;14
+59.0;Hombre;Cauca;Caldono;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1401;Alfonso Bonilla Aragón;14
+20.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;14;;;1401;Alfonso Bonilla Aragón;14
+21.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;1401;Alfonso Bonilla Aragón;14
+15.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1401;Alfonso Bonilla Aragón;14
+70.0;Mujer;No reportado;No reportado;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;701;Alfonso López P. 1a. Etapa;7
+66.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;701;Alfonso López P. 1a. Etapa;7
+30.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;701;Alfonso López P. 1a. Etapa;7
+37.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;701;Alfonso López P. 1a. Etapa;7
+15.0;Hombre;Cauca;Timbiquí;Básica primaria;narrativas;01AGO2018;Ciudadano;3;;;701;Alfonso López P. 1a. Etapa;7
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;7;;;701;Alfonso López P. 1a. Etapa;7
+29.0;Hombre;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;7;;Si;701;Alfonso López P. 1a. Etapa;7
+54.0;Hombre;Valle del Cauca;;Básica primaria;narrativas;01AGO2018;Ciudadano;No reportado;;;702;Alfonso López P. 2a. Etapa;7
+15.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;7;;;703;Alfonso López P. 3a. Etapa;7
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;7;cali_zona_urbana;;703;Alfonso López P. 3a. Etapa;7
+30.0;Hombre;;;Tecnológica;encuentas;25MAR2018;Técnico administración;7;;Si;703;Alfonso López P. 3a. Etapa;7
+34.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1813;Alférez Real;18
+29.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1813;Alférez Real;18
+44.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1402;Alirio Mora Beltrán;14
+37.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1402;Alirio Mora Beltrán;14
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1402;Alirio Mora Beltrán;14
+37.0;Mujer;Valle del Cauca;Cali;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;1402;Alirio Mora Beltrán;14
+23.0;Mujer;Risaralda;Quinchía;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1402;Alirio Mora Beltrán;14
+21.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+15.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+16.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+14.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+17.0;Mujer;Quindio;Armenia;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+13.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+15.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+14.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+17.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+14.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1402;Alirio Mora Beltrán;14
+15.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1402;Alirio Mora Beltrán;14
+;Hombre;;;No reportado;narrativas;01AGO2018;Ciudadano;No reportado;;;1402;Alirio Mora Beltrán;14
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1402;Alirio Mora Beltrán;14
+30.0;Mujer;Cauca;Inzá;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1898;Alto Nápoles;18
+30.0;Hombre;Cauca;Morales;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1898;Alto Nápoles;18
+29.0;Mujer;Cundinamarca;Tocaima;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1898;Alto Nápoles;18
+19.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;2;;;296;Altos de Menga;2
+22.0;Hombre;Antioquia;Zaragoza;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+22.0;Hombre;Antioquia;Zaragoza;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+19.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+19.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+34.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+25.0;Hombre;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+25.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+20.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+23.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+21.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+25.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+22.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+25.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+21.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+28.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+22.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+20.0;Hombre;Nariño;El Charco;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+34.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+21.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+23.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+34.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+27.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1604;Antonio Nariño;16
+22.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+20.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;1604;Antonio Nariño;16
+17.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1604;Antonio Nariño;16
+18.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;16;;;1604;Antonio Nariño;16
+48.0;Hombre;Cauca;Santander de Quilichao;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;905;Aranjuez;9
+17.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;905;Aranjuez;9
+36.0;Hombre;;;Maestría;encuentas;25MAR2018;Técnico administración;2;;Si;203;Arboledas;2
+20.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;812;Atanasio Girardot;8
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;812;Atanasio Girardot;8
+19.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1802;Barrio Caldas;18
+18.0;Hombre;Nariño;San Andres de Tumaco;Media académica o clásica;narrativas;01AGO2018;Ciudadano;18;;;1802;Barrio Caldas;18
+19.0;Hombre;Cauca;;No reportado;narrativas;01AGO2018;Ciudadano;18;;;1802;Barrio Caldas;18
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1802;Barrio Caldas;18
+25.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1802;Barrio Caldas;18
+30.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;18;;Si;1802;Barrio Caldas;18
+46.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;18;;Si;1802;Barrio Caldas;18
+26.0;Hombre;Valle del Cauca;Buenaventura;Profesional;encuentas;25MAR2018;Técnico administración;18;;No;1802;Barrio Caldas;18
+18.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;10;;;1011;Barrio Departamental;10
+25.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1905;Barrio Eucarístico;19
+42.0;Hombre;No reportado;No reportado;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1905;Barrio Eucarístico;19
+42.0;Mujer;Cauca;No reportado;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;908;Belalcázar;9
+19.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;908;Belalcázar;9
+17.0;Hombre;Cauca;Suárez;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2002;Belisario Caicedo;20
+19.0;Hombre;Cauca;Suárez;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2002;Belisario Caicedo;20
+31.0;Mujer;Valle del Cauca;Palmira;Profesional;encuentas;25MAR2018;Técnico administración;20;;No;2002;Belisario Caicedo;20
+47.0;Hombre;No reportado;No reportado;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1909;Bellavista;19
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1909;Bellavista;19
+28.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2005;Belén;20
+15.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;8;;;807;Benjamín Herrera;8
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;807;Benjamín Herrera;8
+17.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;9;;;902;Bretaña;9
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;902;Bretaña;9
+58.0;Mujer;Cauca;Popayán;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2006;Brisas de Mayo;20
+17.0;Mujer;Cauca;Morales;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2006;Brisas de Mayo;20
+9.0;Mujer;Cauca;Morales;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2006;Brisas de Mayo;20
+42.0;Mujer;Quindio;Córdoba;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2006;Brisas de Mayo;20
+30.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2006;Brisas de Mayo;20
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2006;Brisas de Mayo;20
+60.0;Mujer;Valle del Cauca;El Cerrito;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;219;Brisas de los Alamos;2
+18.0;Mujer;Valle del Cauca;;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;219;Brisas de los Alamos;2
+;Hombre;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;2;;;219;Brisas de los Alamos;2
+18.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;219;Brisas de los Alamos;2
+24.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;219;Brisas de los Alamos;2
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;219;Brisas de los Alamos;2
+21.0;Mujer;Caldas;Manizales;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;1801;Buenos Aires;18
+24.0;Hombre;Valle del Cauca;;Básica primaria;narrativas;01AGO2018;Ciudadano;18;;;1801;Buenos Aires;18
+18.0;Mujer;Valle del Cauca;;Técnica profesional;narrativas;01AGO2018;Ciudadano;18;;;1801;Buenos Aires;18
+18.0;Mujer;Valle del Cauca;Palmira;No reportado;narrativas;01AGO2018;Ciudadano;18;;;1801;Buenos Aires;18
+15.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;18;;;1801;Buenos Aires;18
+19.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1801;Buenos Aires;18
+32.0;Hombre;Chocó;Bajo Baudó;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1801;Buenos Aires;18
+27.0;Hombre;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1801;Buenos Aires;18
+27.0;Hombre;Chocó;Bajo Baudó;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1801;Buenos Aires;18
+25.0;Intersexual;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1801;Buenos Aires;18
+33.0;Hombre;;;Maestría;encuentas;25MAR2018;Técnico administración;18;;Si;1801;Buenos Aires;18
+17.0;Mujer;Cauca;Popayán;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;2103;Calimio Desepaz;21
+86.0;Mujer;Valle del Cauca;Cali;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;2103;Calimio Desepaz;21
+70.0;Hombre;Valle del Cauca;;Básica primaria;narrativas;01AGO2018;Ciudadano;21;;;2103;Calimio Desepaz;21
+31.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;2103;Calimio Desepaz;21
+20.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;21;;;2103;Calimio Desepaz;21
+17.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;21;;;2103;Calimio Desepaz;21
+40.0;Hombre;Cauca;Bolívar;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2103;Calimio Desepaz;21
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2103;Calimio Desepaz;21
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2103;Calimio Desepaz;21
+30.0;Mujer;Nariño;San Andres de Tumaco;Técnica profesional;encuentas;25MAR2018;Técnico administración;21;;No;2103;Calimio Desepaz;21
+22.0;Hombre;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;13;;;1315;Calipso;13
+18.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;01AGO2018;Ciudadano;13;;;1315;Calipso;13
+28.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1315;Calipso;13
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1315;Calipso;13
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1315;Calipso;13
+25.0;Mujer;Nariño;San Andres de Tumaco;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1315;Calipso;13
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1315;Calipso;13
+0.0;Hombre;Valle del Cauca;Palmira;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1922;Camino Real - Joaquín Borrero Sinisterra;19
+24.0;Hombre;Cauca;Piendamó;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1922;Camino Real - Joaquín Borrero Sinisterra;19
+24.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1922;Camino Real - Joaquín Borrero Sinisterra;19
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1922;Camino Real - Joaquín Borrero Sinisterra;19
+27.0;Hombre;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;19;;;1923;Camino Real - Los Fundadores;19
+36.0;Mujer;Valle del Cauca;Guadalajara de Buga;Especialización;encuentas;25MAR2018;Técnico administración;19;;No;1923;Camino Real - Los Fundadores;19
+37.0;Hombre;No reportado;No reportado;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1774;Caney;17
+26.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1774;Caney;17
+;Mujer;;;No reportado;narrativas;01AGO2018;Ciudadano;17;;;1774;Caney;17
+26.0;Hombre;Cauca;Guapi;Técnica profesional;narrativas;01AGO2018;Ciudadano;17;;;1774;Caney;17
+18.0;Hombre;;;No reportado;narrativas;01AGO2018;Ciudadano;17;;;1774;Caney;17
+15.0;Hombre;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+19.0;Hombre;Cauca;Timbiquí;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+62.0;Hombre;Valle del Cauca;Cartago;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+19.0;Mujer;Chocó;Quibdó;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+37.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+24.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1774;Caney;17
+22.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1774;Caney;17
+35.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1988;Cañaveralejo - Seguros Patria;19
+18.0;Hombre;Valle del Cauca;Bugalagrande;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1786;Cañaverales - Los Samanes;17
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1786;Cañaverales - Los Samanes;17
+17.0;Hombre;Putumayo;Leguízamo;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1786;Cañaverales - Los Samanes;17
+39.0;Mujer;;;Tecnológica;encuentas;25MAR2018;Técnico administración;17;;Si;1786;Cañaverales - Los Samanes;17
+65.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;206;Centenario;2
+26.0;Mujer;Risaralda;Pereira;Media académica o clásica;encuentas;25MAR2018;Técnico administración;2;;No;206;Centenario;2
+23.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1914;Champagñat;19
+24.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1914;Champagñat;19
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;814;Chapinero;8
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;505;Chiminangos Primera Etapa;5
+32.0;Hombre;Valle del Cauca;Buenaventura;Especialización;encuentas;25MAR2018;Técnico administración;5;;No;505;Chiminangos Primera Etapa;5
+53.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;504;Chiminangos Segunda Etapa;5
+60.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;504;Chiminangos Segunda Etapa;5
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;5;;;504;Chiminangos Segunda Etapa;5
+26.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;5;;Si;504;Chiminangos Segunda Etapa;5
+51.0;Mujer;Cauca;Timbío;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;218;Chipichape;2
+20.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1697;Ciudad 2000;16
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1697;Ciudad 2000;16
+21.0;Mujer;;;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1697;Ciudad 2000;16
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1697;Ciudad 2000;16
+;Hombre;Cauca;Timbiquí;Media académica o clásica;narrativas;01AGO2018;Ciudadano;16;;;1697;Ciudad 2000;16
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+19.0;Mujer;Nariño;Ipiales;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+19.0;Hombre;Nariño;Ipiales;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+20.0;Mujer;Cauca;Guapi;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+28.0;Hombre;Quindio;Armenia;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1697;Ciudad 2000;16
+33.0;Hombre;Valle del Cauca;Palmira;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;2298;Ciudad Campestre;22
+16.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;2298;Ciudad Campestre;22
+19.0;Mujer;Valle del Cauca;La Unión;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1783;Ciudad Capri;17
+17.0;Mujer;Cauca;Santander de Quilichao;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1783;Ciudad Capri;17
+16.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;17;;;1783;Ciudad Capri;17
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1783;Ciudad Capri;17
+27.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1783;Ciudad Capri;17
+35.0;Hombre;Valle del Cauca;Buenaventura;Especialización;encuentas;25MAR2018;Técnico administración;17;;No;1783;Ciudad Capri;17
+28.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1596;Ciudad Cordoba;15
+42.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1596;Ciudad Cordoba;15
+30.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1596;Ciudad Cordoba;15
+18.0;Mujer;Nariño;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1596;Ciudad Cordoba;15
+17.0;Mujer;Nariño;San Pablo;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1596;Ciudad Cordoba;15
+56.0;Hombre;Nariño;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1596;Ciudad Cordoba;15
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+26.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+21.0;Mujer;Nariño;Los Andes;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+40.0;Mujer;Tolima;Fresno;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+69.0;Hombre;Caldas;Manizales;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1596;Ciudad Cordoba;15
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;2;;;217;Ciudad Los Alamos;2
+19.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;2;;;217;Ciudad Los Alamos;2
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;217;Ciudad Los Alamos;2
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;217;Ciudad Los Alamos;2
+41.0;Mujer;Valle del Cauca;Palmira;Media académica o clásica;encuentas;25MAR2018;Técnico administración;2;;No;217;Ciudad Los Alamos;2
+31.0;Mujer;Norte de Santander;Cúcuta;Maestría;encuentas;25MAR2018;Técnico administración;2;;No;217;Ciudad Los Alamos;2
+17.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;2108;Ciudad Talanga;21
+25.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1703;Ciudadela Comfandi;17
+18.0;Mujer;Caldas;Riosucio;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1703;Ciudadela Comfandi;17
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1703;Ciudadela Comfandi;17
+31.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1703;Ciudadela Comfandi;17
+25.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;610;Ciudadela Floralia;6
+56.0;Hombre;Caldas;Marmato;Básica primaria;narrativas;01AGO2018;Ciudadano;6;;;610;Ciudadela Floralia;6
+32.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;610;Ciudadela Floralia;6
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;610;Ciudadela Floralia;6
+33.0;Hombre;Valle del Cauca;Buenaventura;Profesional;narrativas;01AGO2018;Ciudadano;6;;;610;Ciudadela Floralia;6
+42.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;610;Ciudadela Floralia;6
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;610;Ciudadela Floralia;6
+25.0;Hombre;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;6;;Si;610;Ciudadela Floralia;6
+31.0;Hombre;;;Tecnológica;encuentas;25MAR2018;Técnico administración;6;;Si;610;Ciudadela Floralia;6
+26.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;6;;Si;610;Ciudadela Floralia;6
+25.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1812;Colinas del Sur;18
+18.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1014;Colseguros Andes;10
+15.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;10;;;1014;Colseguros Andes;10
+24.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;21;;;2107;Compartir;21
+17.0;Hombre;;;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2107;Compartir;21
+33.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2107;Compartir;21
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1502;Comuneros I;15
+20.0;Hombre;Nariño;San Andres de Tumaco;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+21.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+25.0;Mujer;;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+;Hombre;;;No reportado;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+8.0;Hombre;;;No reportado;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+14.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1502;Comuneros I;15
+16.0;Mujer;Nariño;Olaya Herrera;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+14.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;4;;;1502;Comuneros I;15
+16.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+;Mujer;Nariño;Roberto Payán;Básica primaria;narrativas;01AGO2018;Ciudadano;16;;;1502;Comuneros I;15
+16.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+16.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1502;Comuneros I;15
+18.0;Mujer;Valle del Cauca;Versalles;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1502;Comuneros I;15
+35.0;Hombre;Nariño;San Andres de Tumaco;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1502;Comuneros I;15
+35.0;Hombre;Nariño;San Andres de Tumaco;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1502;Comuneros I;15
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1502;Comuneros I;15
+28.0;Mujer;Valle del Cauca;El Cerrito;Profesional;narrativas;01AGO2018;Ciudadano;15;;;1009;Cristóbal Colón;10
+28.0;Mujer;Valle del Cauca;El Cerrito;Maestría;narrativas;01AGO2018;Ciudadano;10;;;1009;Cristóbal Colón;10
+24.0;Mujer;;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;10;;;1009;Cristóbal Colón;10
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1009;Cristóbal Colón;10
+18.0;Mujer;Archipiélago de San Andrés;San Andrés;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1009;Cristóbal Colón;10
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1009;Cristóbal Colón;10
+19.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;18;;;1816;Cuarteles Napoles;18
+18.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;18;;;1816;Cuarteles Napoles;18
+20.0;Mujer;Nariño;Ipiales;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1816;Cuarteles Napoles;18
+19.0;Mujer;Nariño;San Andres de Tumaco;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1816;Cuarteles Napoles;18
+48.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;18;;;1816;Cuarteles Napoles;18
+17.0;Hombre;;;No reportado;narrativas;01AGO2018;Ciudadano;18;;;1816;Cuarteles Napoles;18
+18.0;Mujer;Magdalena;Santa Marta;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1816;Cuarteles Napoles;18
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1816;Cuarteles Napoles;18
+37.0;Hombre;Antioquia;Medellín;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1919;Cuarto de Legua - Guadalupe;19
+42.0;Mujer;Cauca;San Sebastián;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1919;Cuarto de Legua - Guadalupe;19
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1919;Cuarto de Legua - Guadalupe;19
+29.0;Mujer;Nariño;San Pablo;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;2106;Desepaz Invicali;21
+19.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;2106;Desepaz Invicali;21
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1209;Doce de Octubre;12
+26.0;Hombre;;;Especialización;encuentas;25MAR2018;Técnico administración;8;;Si;816;EL Trébol;8
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;12;;;1203;Eduardo Santos;12
+20.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;2;;;215;El Bosque;2
+16.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;215;El Bosque;2
+21.0;Hombre;Cauca;Popayán;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;215;El Bosque;2
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;310;El Calvario;3
+27.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1913;El Cedro;19
+6.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2001;El Cortijo;20
+23.0;Mujer;Nariño;La Unión;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2001;El Cortijo;20
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2001;El Cortijo;20
+15.0;Mujer;Cauca;Caldono;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1308;El Diamante;13
+21.0;Hombre;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1308;El Diamante;13
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1308;El Diamante;13
+65.0;Mujer;Valle del Cauca;Buenaventura;Maestría;encuentas;25MAR2018;Técnico administración;13;;No;1308;El Diamante;13
+43.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;17;;Si;1790;El Gran Limonar;17
+43.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;17;;Si;1790;El Gran Limonar;17
+45.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1789;El Gran Limonar - Cataya;17
+59.0;Mujer;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;17;;Si;1789;El Gran Limonar - Cataya;17
+62.0;Hombre;Valle del Cauca;Cali;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1002;El Guabal;10
+17.0;Mujer;Valle del Cauca;Buenaventura;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1002;El Guabal;10
+34.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;10;;;1002;El Guabal;10
+22.0;Hombre;Nariño;San Andres de Tumaco;Técnica profesional;narrativas;01AGO2018;Ciudadano;10;;;1002;El Guabal;10
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1002;El Guabal;10
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1002;El Guabal;10
+24.0;Mujer;No reportado;No reportado;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1780;El Ingenio;17
+26.0;Mujer;No reportado;No reportado;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1780;El Ingenio;17
+23.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1780;El Ingenio;17
+30.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1780;El Ingenio;17
+30.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1780;El Ingenio;17
+38.0;Mujer;Norte de Santander;Cúcuta;Maestría;narrativas;01AGO2018;Ciudadano;11;;;1106;El Jardín;11
+23.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1106;El Jardín;11
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1106;El Jardín;11
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1106;El Jardín;11
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1106;El Jardín;11
+29.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;11;;Si;1106;El Jardín;11
+28.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;11;;Si;1106;El Jardín;11
+16.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1903;El Lido;19
+22.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1903;El Lido;19
+48.0;Hombre;;;Especialización;encuentas;25MAR2018;Técnico administración;19;;Si;1903;El Lido;19
+48.0;Hombre;Valle del Cauca;Tuluá;Profesional;encuentas;25MAR2018;Técnico administración;19;;No;1903;El Lido;19
+31.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;19;;Si;1903;El Lido;19
+48.0;Hombre;Valle del Cauca;No reportado;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1787;El Limonar;17
+19.0;Mujer;Putumayo;Colón;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1787;El Limonar;17
+17.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1787;El Limonar;17
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1787;El Limonar;17
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1787;El Limonar;17
+24.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1787;El Limonar;17
+27.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1787;El Limonar;17
+31.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1787;El Limonar;17
+37.0;Mujer;Atlántico;Palmar de Varela;Maestría;encuentas;25MAR2018;Técnico administración;17;;No;1787;El Limonar;17
+30.0;Mujer;Quindio;Armenia;Especialización;encuentas;25MAR2018;Técnico administración;17;;No;1787;El Limonar;17
+26.0;Hombre;Cauca;Popayán;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1599;El Morichal;15
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1599;El Morichal;15
+19.0;Hombre;;;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1599;El Morichal;15
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1599;El Morichal;15
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1599;El Morichal;15
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1599;El Morichal;15
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1599;El Morichal;15
+37.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;15;;Si;1599;El Morichal;15
+29.0;Mujer;Cauca;Popayán;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1917;El Mortiñal;19
+33.0;Hombre;Valle del Cauca;Buenaventura;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;301;El Nacional;3
+18.0;Mujer;Valle del Cauca;Palmira;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;301;El Nacional;3
+42.0;Hombre;Valle del Cauca;Cali;Maestría;narrativas;01AGO2018;Ciudadano;3;;;302;El Peñón;3
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;302;El Peñón;3
+19.0;Mujer;Atlántico;Barranquilla;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;302;El Peñón;3
+29.0;Mujer;;;Maestría;encuentas;25MAR2018;Técnico administración;3;;Si;302;El Peñón;3
+26.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;Profesional;encuentas;25MAR2018;Técnico administración;3;;No;302;El Peñón;3
+25.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;Especialización;encuentas;25MAR2018;Técnico administración;3;;No;302;El Peñón;3
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;314;El Piloto;3
+79.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+43.0;Mujer;Cauca;Cajibío;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+38.0;Mujer;Valle del Cauca;Florida;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+23.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+21.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+37.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+20.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+22.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+26.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1303;El Poblado I;13
+15.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;13;;;1303;El Poblado I;13
+22.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;13;;;1303;El Poblado I;13
+22.0;Mujer;Valle del Cauca;La Cumbre;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1303;El Poblado I;13
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1303;El Poblado I;13
+16.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1303;El Poblado I;13
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1303;El Poblado I;13
+31.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1303;El Poblado I;13
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+78.0;Mujer;Cauca;Patía;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+38.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+21.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+36.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+19.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+76.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+22.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+37.0;Mujer;Valle del Cauca;Florida;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+23.0;Hombre;Cesar;Agustín Codazzi;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+37.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+83.0;Hombre;Chocó;No reportado;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+33.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+50.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+24.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+19.0;Mujer;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+23.0;Mujer;Tolima;Líbano;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+31.0;Hombre;Valle del Cauca;La Cumbre;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+24.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+23.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+23.0;Hombre;Nariño;Barbacoas;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+50.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+18.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+31.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+55.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+50.0;Hombre;Nariño;San Andres de Tumaco;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+43.0;Hombre;Nariño;San Andres de Tumaco;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+25.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+15.0;Hombre;No reportado;No reportado;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+18.0;Hombre;Valle del Cauca;Palmira;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+37.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+19.0;Mujer;Tolima;Líbano;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+79.0;Mujer;Santander;Albania;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+31.0;Mujer;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+32.0;Mujer;Chocó;No reportado;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+17.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+40.0;Mujer;Chocó;No reportado;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+57.0;Intersexual;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+70.0;Mujer;Risaralda;Pueblo Rico;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;1304;El Poblado II;13
+28.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;13;;;1304;El Poblado II;13
+21.0;Hombre;Nariño;Policarpa;No reportado;narrativas;01AGO2018;Ciudadano;13;;;1304;El Poblado II;13
+36.0;Hombre;Valle del Cauca;Zarzal;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1304;El Poblado II;13
+33.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1304;El Poblado II;13
+41.0;Hombre;Tolima;Líbano;Media académica o clásica;encuentas;25MAR2018;Técnico administración;13;;No;1304;El Poblado II;13
+31.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;13;;;1398;El Pondaje;13
+23.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1398;El Pondaje;13
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1398;El Pondaje;13
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1398;El Pondaje;13
+23.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1398;El Pondaje;13
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1398;El Pondaje;13
+27.0;Mujer;;;Maestría;encuentas;25MAR2018;Técnico administración;13;;Si;1398;El Pondaje;13
+29.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+31.0;Mujer;Valle del Cauca;No reportado;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+62.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+53.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+22.0;Hombre;Antioquia;Medellín;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+27.0;Mujer;Tolima;Ibagué;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+71.0;Mujer;Valle del Cauca;Cartago;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+60.0;Hombre;Valle del Cauca;Cali;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1901;El Refugio;19
+28.0;Mujer;Quindio;Armenia;Media académica o clásica;narrativas;01AGO2018;Ciudadano;18;;;1901;El Refugio;19
+17.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;19;;;1901;El Refugio;19
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+17.0;Hombre;;;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+23.0;Mujer;Nariño;Pasto;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+23.0;Mujer;Nariño;Pasto;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+19.0;Mujer;Tolima;Ibagué;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+22.0;Mujer;Valle del Cauca;Tuluá;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+24.0;Hombre;Nariño;Ipiales;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+20.0;Hombre;Nariño;La Unión;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1901;El Refugio;19
+32.0;Hombre;Tolima;Ibagué;Especialización;encuentas;25MAR2018;Técnico administración;19;;No;1901;El Refugio;19
+23.0;Hombre;Cauca;Patía;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2104;El Remanso;21
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2104;El Remanso;21
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2104;El Remanso;21
+42.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1501;El Retiro;15
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1501;El Retiro;15
+24.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1501;El Retiro;15
+44.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1501;El Retiro;15
+25.0;Hombre;Valle del Cauca;Buenaventura;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+12.0;Mujer;Valle del Cauca;Cali;Maestría;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+41.0;Mujer;Valle del Cauca;;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+22.0;Mujer;Valle del Cauca;;No reportado;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+25.0;Hombre;Valle del Cauca;Buenaventura;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+18.0;Hombre;Valle del Cauca;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+27.0;Hombre;Tolima;Ibagué;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+24.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+35.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+18.0;Hombre;Cauca;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+28.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1501;El Retiro;15
+24.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+17.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;15;;;1501;El Retiro;15
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1210;El Rodeo;12
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;501;El Sena;5
+19.0;Hombre;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;501;El Sena;5
+42.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;5;;Si;501;El Sena;5
+65.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;810;El Troncal;8
+22.0;Mujer;Valle del Cauca;Cali;Normalista;narrativas;01AGO2018;Ciudadano;8;;;810;El Troncal;8
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;810;El Troncal;8
+25.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;810;El Troncal;8
+35.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;8;;Si;810;El Troncal;8
+23.0;Hombre;Cauca;Guapi;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1504;El Vallado;15
+0.0;Mujer;Nariño;San Andres de Tumaco;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;1504;El Vallado;15
+27.0;Hombre;Cauca;;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1504;El Vallado;15
+28.0;Mujer;Valle del Cauca;Buenaventura;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1504;El Vallado;15
+22.0;Mujer;Antioquia;Medellín;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1504;El Vallado;15
+15.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1504;El Vallado;15
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1504;El Vallado;15
+25.0;Mujer;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1504;El Vallado;15
+69.0;Mujer;Huila;Nátaga;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+56.0;Mujer;Valle del Cauca;Tuluá;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+13.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+74.0;Mujer;Valle del Cauca;Tuluá;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+32.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+7.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+62.0;Mujer;Cauca;Timbío;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1302;El Vergel;13
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1302;El Vergel;13
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;420;Flora Industrial;4
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;695;Fonaviemcali;6
+18.0;Mujer;;;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;407;Fátima;4
+18.0;Hombre;Córdoba;Montería;No reportado;narrativas;01AGO2018;Ciudadano;2;;;207;Granada;2
+20.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;207;Granada;2
+36.0;Mujer;Valle del Cauca;Guadalajara de Buga;Profesional;encuentas;25MAR2018;Técnico administración;2;;No;207;Granada;2
+32.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;2;;Si;207;Granada;2
+29.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;2;;Si;207;Granada;2
+56.0;Mujer;Antioquia;Medellín;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;904;Guayaquil;9
+36.0;Mujer;Antioquia;Medellín;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;904;Guayaquil;9
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;904;Guayaquil;9
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;904;Guayaquil;9
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;904;Guayaquil;9
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;904;Guayaquil;9
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;904;Guayaquil;9
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;809;Industrial;8
+21.0;Mujer;Valle del Cauca;Florida;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;602;Jorge Eliecer Gaitán;6
+25.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;602;Jorge Eliecer Gaitán;6
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;602;Jorge Eliecer Gaitán;6
+19.0;Hombre;Valle del Cauca;;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;602;Jorge Eliecer Gaitán;6
+59.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;401;Jorge Isaacs;4
+18.0;Mujer;Cauca;Popayán;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;401;Jorge Isaacs;4
+20.0;Hombre;Valle del Cauca;Florida;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;401;Jorge Isaacs;4
+42.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;10;;;1007;Jorge Zawadsky;10
+25.0;Hombre;No reportado;No reportado;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1406;José Manuel Marroquín Primera Etapa;14
+41.0;Hombre;No reportado;No reportado;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1406;José Manuel Marroquín Primera Etapa;14
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1406;José Manuel Marroquín Primera Etapa;14
+31.0;Hombre;;;Especialización;encuentas;25MAR2018;Técnico administración;14;;Si;1406;José Manuel Marroquín Primera Etapa;14
+32.0;Hombre;No reportado;No reportado;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1405;José Manuel Marroquín Segunda Etapa;14
+75.0;Mujer;Valle del Cauca;Guadalajara de Buga;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1405;José Manuel Marroquín Segunda Etapa;14
+19.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;13;;;1405;José Manuel Marroquín Segunda Etapa;14
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1405;José Manuel Marroquín Segunda Etapa;14
+17.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;903;Junín;9
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;903;Junín;9
+17.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;903;Junín;9
+17.0;Hombre;Bogotá, D.C.;;No reportado;narrativas;09ABR2019;Ciudadano;9;cali_zona_urbana;;903;Junín;9
+45.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1698;La Alborada;16
+48.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;817;La Base;8
+43.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;817;La Base;8
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;8;;;817;La Base;8
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;817;La Base;8
+21.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;817;La Base;8
+20.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;2;;;213;La Campiña;2
+32.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;19;;;1902;La Cascada;19
+46.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1902;La Cascada;19
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1902;La Cascada;19
+48.0;Mujer;Quindio;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;4;;;416;La Esmeralda;4
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1104;La Esperanza;11
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1104;La Esperanza;11
+88.0;Mujer;Caldas;Manizales;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;212;La Flora;2
+65.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;212;La Flora;2
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;212;La Flora;2
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;212;La Flora;2
+30.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;2;;Si;212;La Flora;2
+31.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;2;;Si;212;La Flora;2
+20.0;Hombre;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;806;La Floresta;8
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;806;La Floresta;8
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1107;La Fortaleza;11
+19.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1784;La Hacienda;17
+34.0;Mujer;Valle del Cauca;Tuluá;Profesional;narrativas;01AGO2018;Ciudadano;17;;;1784;La Hacienda;17
+17.0;Hombre;Cauca;Santander de Quilichao;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1784;La Hacienda;17
+23.0;Hombre;;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1784;La Hacienda;17
+;Mujer;;;No reportado;narrativas;01AGO2018;Ciudadano;No reportado;;;1784;La Hacienda;17
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1784;La Hacienda;17
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1784;La Hacienda;17
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1784;La Hacienda;17
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1784;La Hacienda;17
+30.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1784;La Hacienda;17
+31.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1103;La Independencia;11
+31.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;01AGO2018;Ciudadano;11;;;1103;La Independencia;11
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;11;;;1103;La Independencia;11
+18.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;11;;;1103;La Independencia;11
+36.0;Hombre;Cauca;Guapi;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1103;La Independencia;11
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1103;La Independencia;11
+18.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;413;La Isla;4
+24.0;Hombre;Cauca;La Sierra;No reportado;narrativas;01AGO2018;Ciudadano;4;;;413;La Isla;4
+26.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1003;La Libertad;10
+36.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;308;La Merced;3
+20.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;3;;;308;La Merced;3
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;308;La Merced;3
+21.0;Mujer;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+22.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+40.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+34.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+22.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+24.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+30.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+27.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+27.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+31.0;Mujer;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+22.0;Hombre;Nariño;No reportado;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+23.0;Hombre;Nariño;San Andres de Tumaco;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+25.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+21.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+32.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+16.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;214;La Paz;2
+52.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;5;;;607;La Rivera Primera Etapa;6
+64.0;Mujer;Nariño;Samaniego;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;607;La Rivera Primera Etapa;6
+46.0;Mujer;Valle del Cauca;Palmira;Especialización;narrativas;01AGO2018;Ciudadano;No reportado;;;607;La Rivera Primera Etapa;6
+22.0;Hombre;Cauca;;Técnica profesional;narrativas;01AGO2018;Ciudadano;5;;;607;La Rivera Primera Etapa;6
+46.0;Mujer;Valle del Cauca;Palmira;Maestría;narrativas;01AGO2018;Ciudadano;4;;;607;La Rivera Primera Etapa;6
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;607;La Rivera Primera Etapa;6
+20.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1010;La Selva;10
+34.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1010;La Selva;10
+22.0;Mujer;Nariño;Sandoná;Técnica profesional;narrativas;01AGO2018;Ciudadano;10;;;1005;Las Acacias;10
+;Mujer;;;No reportado;narrativas;01AGO2018;Ciudadano;No reportado;;;1005;Las Acacias;10
+20.0;Hombre;Santander;Barrancabermeja;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1005;Las Acacias;10
+31.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1005;Las Acacias;10
+30.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1005;Las Acacias;10
+24.0;Mujer;Cauca;Toribio;Tecnológica;narrativas;01AGO2018;Ciudadano;8;;;811;Las Américas;8
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;710;Las Ceibas;7
+15.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;4;;;404;Las Delicias;4
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;404;Las Delicias;4
+33.0;Hombre;Cauca;Argelia;Profesional;encuentas;25MAR2018;Técnico administración;4;;No;404;Las Delicias;4
+45.0;Hombre;;;Especialización;encuentas;25MAR2018;Técnico administración;4;;Si;404;Las Delicias;4
+17.0;Mujer;Valle del Cauca;Buenaventura;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1016;Las Granjas;10
+32.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;10;;Si;1016;Las Granjas;10
+64.0;Mujer;Cauca;Cajibío;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1404;Las Orquídeas;14
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;14;;;1404;Las Orquídeas;14
+18.0;Mujer;Antioquia;Medellín;Básica primaria;narrativas;01AGO2018;Ciudadano;17;;;1782;Las Quintas de Don Simón;17
+43.0;Hombre;Santander;Barrancabermeja;Maestría;encuentas;25MAR2018;Técnico administración;17;;No;1782;Las Quintas de Don Simón;17
+23.0;Hombre;No reportado;No reportado;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1503;Laureano Gómez;15
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1503;Laureano Gómez;15
+19.0;Hombre;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1503;Laureano Gómez;15
+19.0;Hombre;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;15;cali_zona_urbana;;1503;Laureano Gómez;15
+36.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;15;;Si;1503;Laureano Gómez;15
+44.0;Hombre;Valle del Cauca;Palmira;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1775;Lili;17
+35.0;Hombre;No reportado;No reportado;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1775;Lili;17
+26.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1775;Lili;17
+33.0;Hombre;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1775;Lili;17
+18.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1775;Lili;17
+21.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1775;Lili;17
+21.0;Mujer;Nariño;Pasto;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1775;Lili;17
+20.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1775;Lili;17
+32.0;Hombre;Cauca;Patía;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+22.0;Mujer;Atlántico;Barranquilla;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+41.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+34.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+40.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+26.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+20.0;Mujer;Chocó;Quibdó;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+36.0;Hombre;Cesar;Valledupar;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1775;Lili;17
+29.0;Hombre;Valle del Cauca;Sevilla;Profesional;encuentas;25MAR2018;Técnico administración;17;;No;1775;Lili;17
+27.0;Mujer;Cundinamarca;El Colegio;Profesional;encuentas;25MAR2018;Técnico administración;17;;No;1775;Lili;17
+37.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1775;Lili;17
+24.0;Hombre;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;17;;Si;1775;Lili;17
+21.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;2004;Lleras Camargo;20
+24.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;604;Los Alcázares;6
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;604;Los Alcázares;6
+17.0;Mujer;Tolima;Ibagué;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;604;Los Alcázares;6
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;604;Los Alcázares;6
+19.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;502;Los Andes;5
+19.0;Mujer;;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;502;Los Andes;5
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;502;Los Andes;5
+23.0;Mujer;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;502;Los Andes;5
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;502;Los Andes;5
+18.0;Mujer;Valle del Cauca;Candelaria;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;502;Los Andes;5
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;502;Los Andes;5
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;502;Los Andes;5
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;502;Los Andes;5
+22.0;Mujer;Valle del Cauca;El Cerrito;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;597;Los Andes B - La Riviera;5
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;597;Los Andes B - La Riviera;5
+21.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;597;Los Andes B - La Riviera;5
+;Hombre;;;No reportado;narrativas;01AGO2018;Ciudadano;No reportado;;;1916;Los Cambulos;19
+35.0;Hombre;Valle del Cauca;Cali;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;1803;Los Chorros;18
+12.0;Mujer;Cauca;Suárez;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1803;Los Chorros;18
+40.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1803;Los Chorros;18
+39.0;Hombre;Cauca;Suárez;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1803;Los Chorros;18
+56.0;Hombre;Quindio;Calarca;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1803;Los Chorros;18
+20.0;Mujer;Chocó;Quibdó;No reportado;narrativas;01AGO2018;Ciudadano;18;;;1803;Los Chorros;18
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1803;Los Chorros;18
+19.0;Mujer;Cauca;;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1803;Los Chorros;18
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1803;Los Chorros;18
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1803;Los Chorros;18
+51.0;Mujer;Chocó;Istmina;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1803;Los Chorros;18
+32.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1803;Los Chorros;18
+15.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+12.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+12.0;Hombre;No reportado;No reportado;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+16.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+17.0;Mujer;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+12.0;Hombre;Valle del Cauca;Yumbo;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+38.0;Mujer;Nariño;Nariño;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+43.0;Mujer;Antioquia;Abriaquí;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+23.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+18.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+34.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+22.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+15.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+21.0;Mujer;Valle del Cauca;Cali;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+16.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1305;Los Comuneros Segunda Etapa;13
+56.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1305;Los Comuneros Segunda Etapa;13
+26.0;Hombre;Cauca;Cajibío;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1305;Los Comuneros Segunda Etapa;13
+16.0;Hombre;Valle del Cauca;Florida;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1305;Los Comuneros Segunda Etapa;13
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1305;Los Comuneros Segunda Etapa;13
+23.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;11;;;1119;Los Conquistadores;11
+24.0;Mujer;Putumayo;Puerto Asís;Técnica profesional;encuentas;25MAR2018;Técnico administración;11;;No;1119;Los Conquistadores;11
+17.0;Mujer;Valle del Cauca;Buenaventura;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1805;Los Farallones;18
+24.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;608;Los Guaduales;6
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;503;Los Guayacanes;5
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;503;Los Guayacanes;5
+17.0;Mujer;Magdalena;Santa Marta;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;503;Los Guayacanes;5
+20.0;Hombre;Antioquia;Anorí;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;503;Los Guayacanes;5
+86.0;Hombre;Valle del Cauca;Florida;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1395;Los Lagos;13
+14.0;Mujer;Nariño;El Charco;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1395;Los Lagos;13
+23.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;13;;;1395;Los Lagos;13
+30.0;Mujer;Cauca;Timbiquí;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1395;Los Lagos;13
+30.0;Mujer;Cauca;Timbiquí;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1395;Los Lagos;13
+27.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;305;Los Libertadores;3
+16.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;305;Los Libertadores;3
+18.0;Mujer;Valle del Cauca;Zarzal;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;305;Los Libertadores;3
+39.0;Hombre;Valle del Cauca;Guadalajara de Buga;Maestría;encuentas;25MAR2018;Técnico administración;3;;No;305;Los Libertadores;3
+30.0;Mujer;Nariño;Mosquera;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1496;Los Naranjos I;14
+18.0;Mujer;Valle del Cauca;Palmira;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1499;Los Naranjos II;14
+30.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;01AGO2018;Ciudadano;6;;;594;Los Parques - Barranquilla;5
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;594;Los Parques - Barranquilla;5
+44.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;5;;Si;594;Los Parques - Barranquilla;5
+29.0;Mujer;Valle del Cauca;Palmira;Tecnológica;encuentas;25MAR2018;Técnico administración;5;;No;594;Los Parques - Barranquilla;5
+30.0;Hombre;;;Técnica profesional;encuentas;25MAR2018;Técnico administración;5;;Si;594;Los Parques - Barranquilla;5
+24.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;5;;Si;594;Los Parques - Barranquilla;5
+31.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;708;Los Pinos;7
+45.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;7;;;708;Los Pinos;7
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;7;cali_zona_urbana;;708;Los Pinos;7
+17.0;Mujer;;;No reportado;narrativas;09ABR2019;Ciudadano;7;cali_zona_urbana;;708;Los Pinos;7
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;7;cali_zona_urbana;;708;Los Pinos;7
+16.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;7;cali_zona_urbana;;708;Los Pinos;7
+49.0;Mujer;Cauca;Mercaderes;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1311;Los Robles;13
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1811;Lourdes;18
+50.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;18;;Si;1811;Lourdes;18
+46.0;Hombre;Cauca;Popayán;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1403;Manuela Beltrán;14
+70.0;Mujer;Chocó;Istmina;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1403;Manuela Beltrán;14
+30.0;Hombre;Nariño;;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1403;Manuela Beltrán;14
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1403;Manuela Beltrán;14
+16.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1403;Manuela Beltrán;14
+51.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1403;Manuela Beltrán;14
+23.0;Hombre;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1403;Manuela Beltrán;14
+37.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;14;;Si;1403;Manuela Beltrán;14
+30.0;Hombre;Valle del Cauca;Palmira;Técnica profesional;encuentas;25MAR2018;Técnico administración;14;;No;1403;Manuela Beltrán;14
+39.0;Hombre;Valle del Cauca;Cali;Maestría;narrativas;01AGO2018;Ciudadano;4;;;405;Manzanares;4
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;405;Manzanares;4
+29.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;11;;Si;1102;Maracaibo;11
+54.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1601;Mariano Ramos;16
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1601;Mariano Ramos;16
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1601;Mariano Ramos;16
+19.0;Mujer;Valle del Cauca;Candelaria;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1601;Mariano Ramos;16
+25.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1810;Mario Correa Rengifo;18
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1810;Mario Correa Rengifo;18
+29.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1810;Mario Correa Rengifo;18
+30.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1394;Marroquín III;13
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1394;Marroquín III;13
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1394;Marroquín III;13
+27.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1781;Mayapan - Las Vegas;17
+30.0;Hombre;Cauca;Toribio;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1804;Meléndez;18
+28.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1804;Meléndez;18
+19.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;18;;;1804;Meléndez;18
+27.0;Hombre;Tolima;Ibagué;Técnica profesional;narrativas;01AGO2018;Ciudadano;18;;;1804;Meléndez;18
+21.0;Hombre;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;18;;;1804;Meléndez;18
+18.0;Mujer;Cauca;Puerto Tejada;Media académica o clásica;narrativas;01AGO2018;Ciudadano;18;;;1804;Meléndez;18
+25.0;Hombre;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;1804;Meléndez;18
+25.0;Hombre;Cauca;Popayán;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1804;Meléndez;18
+17.0;Hombre;Nariño;Pasto;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1804;Meléndez;18
+40.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1804;Meléndez;18
+32.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1804;Meléndez;18
+19.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;506;Metropolitano del Norte;5
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;506;Metropolitano del Norte;5
+38.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1911;Miraflores;19
+34.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;01AGO2018;Ciudadano;19;;;1911;Miraflores;19
+39.0;Hombre;Valle del Cauca;Cali;Maestría;narrativas;01AGO2018;Ciudadano;19;;;1911;Miraflores;19
+15.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;19;;;1911;Miraflores;19
+58.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1911;Miraflores;19
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1911;Miraflores;19
+46.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;19;;Si;1911;Miraflores;19
+48.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+25.0;Mujer;No reportado;No reportado;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+30.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+32.0;Mujer;Atlántico;Barranquilla;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+21.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+31.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+33.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1598;Mojica;15
+18.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+31.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+25.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+24.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+70.0;Hombre;Antioquia;Medellín;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+21.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+23.0;Hombre;Nariño;Guachucal;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+18.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+7.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+48.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+27.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+10.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+24.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+29.0;Mujer;Valle del Cauca;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+23.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+18.0;Mujer;Valle del Cauca;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+26.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1598;Mojica;15
+18.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+15.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+14.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;15;;;1598;Mojica;15
+45.0;Hombre;;;Maestría;encuentas;25MAR2018;Técnico administración;8;;Si;808;Municipal;8
+48.0;Mujer;Valle del Cauca;Palmira;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;0;No reportado;No reportado
+41.0;Hombre;Caldas;Salamina;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;0;No reportado;No reportado
+;Intersexual;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;0;No reportado;No reportado
+38.0;Mujer;Tolima;Planadas;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;204;Normandía;2
+37.0;Mujer;Valle del Cauca;Tuluá;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;204;Normandía;2
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;204;Normandía;2
+39.0;Mujer;Antioquia;Medellín;Especialización;encuentas;25MAR2018;Técnico administración;2;;No;204;Normandía;2
+27.0;Hombre;;;Maestría;encuentas;25MAR2018;Técnico administración;2;;Si;204;Normandía;2
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;12;;;1207;Nueva Floresta;12
+42.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;12;;;1207;Nueva Floresta;12
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;12;cali_zona_urbana;;1207;Nueva Floresta;12
+17.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;12;cali_zona_urbana;;1207;Nueva Floresta;12
+25.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;12;cali_zona_urbana;;1207;Nueva Floresta;12
+25.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;12;cali_zona_urbana;;1207;Nueva Floresta;12
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;12;cali_zona_urbana;;1207;Nueva Floresta;12
+18.0;Hombre;Nariño;Pasto;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1921;Nueva Tequendama;19
+17.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;19;;;1921;Nueva Tequendama;19
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1921;Nueva Tequendama;19
+23.0;Hombre;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;19;;Si;1921;Nueva Tequendama;19
+29.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1814;Nápoles;18
+18.0;Mujer;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1814;Nápoles;18
+18.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;4;;;418;Olaya Herrera;4
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;418;Olaya Herrera;4
+47.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1008;Olímpico;10
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1008;Olímpico;10
+51.0;Mujer;;;Técnica profesional;encuentas;25MAR2018;Técnico administración;10;;Si;1008;Olímpico;10
+33.0;Hombre;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1307;Omar Torrijos;13
+24.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;19;;;1994;Pampa Linda;19
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+28.0;Mujer;Nariño;Pasto;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+21.0;Mujer;Valle del Cauca;Tuluá;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+19.0;Mujer;Nariño;San Pedro de Cartago;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+30.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+25.0;Mujer;Cauca;Popayán;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+22.0;Mujer;Valle del Cauca;Tuluá;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+43.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+25.0;Mujer;Cauca;Popayán;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+19.0;Mujer;Nariño;San Pedro de Cartago;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+19.0;Mujer;Chocó;Quibdó;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+17.0;Mujer;Putumayo;Orito;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+21.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+17.0;Hombre;Valle del Cauca;Restrepo;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+19.0;Mujer;Valle del Cauca;Guadalajara de Buga;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1994;Pampa Linda;19
+48.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1013;Panamericano;10
+50.0;Mujer;No reportado;No reportado;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1013;Panamericano;10
+30.0;Mujer;Valle del Cauca;Cali;Maestría;narrativas;01AGO2018;Ciudadano;10;;;1013;Panamericano;10
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1013;Panamericano;10
+41.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;2296;Parcelaciones Pance;22
+41.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;2296;Parcelaciones Pance;22
+41.0;Hombre;Valle del Cauca;Cali;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;2296;Parcelaciones Pance;22
+26.0;Hombre;Valle del Cauca;Tuluá;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;2296;Parcelaciones Pance;22
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2296;Parcelaciones Pance;22
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;596;Paseo de Los Almendros;5
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;596;Paseo de Los Almendros;5
+26.0;Mujer;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;6;;Si;603;Paso del Comercio;6
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1012;Pasoancho;10
+34.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;605;Petecuy Primera Etapa;6
+77.0;Mujer;No reportado;No reportado;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;605;Petecuy Primera Etapa;6
+71.0;Mujer;Valle del Cauca;Ginebra;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;605;Petecuy Primera Etapa;6
+79.0;Mujer;Caldas;Manizales;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;605;Petecuy Primera Etapa;6
+37.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;605;Petecuy Primera Etapa;6
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;605;Petecuy Primera Etapa;6
+39.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+31.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+70.0;Hombre;Valle del Cauca;Dagua;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+35.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+26.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+25.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+18.0;Mujer;Valle del Cauca;Guadalajara de Buga;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+31.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+43.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+30.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+84.0;Mujer;Nariño;San Andres de Tumaco;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+101.0;Mujer;Nariño;San Andres de Tumaco;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+67.0;Hombre;Valle del Cauca;Roldanillo;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+0.0;Mujer;Quindio;Quimbaya;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;606;Petecuy Segunda Etapa;6
+71.0;Mujer;Valle del Cauca;Buenaventura;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;609;Petecuy Tercera Etapa;6
+81.0;Hombre;Risaralda;Pereira;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;609;Petecuy Tercera Etapa;6
+81.0;Mujer;Caldas;Pensilvania;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;609;Petecuy Tercera Etapa;6
+67.0;Mujer;Nariño;San Andres de Tumaco;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;609;Petecuy Tercera Etapa;6
+63.0;Mujer;Valle del Cauca;Cali;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;609;Petecuy Tercera Etapa;6
+76.0;Mujer;Valle del Cauca;Trujillo;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;609;Petecuy Tercera Etapa;6
+81.0;Mujer;Huila;La Plata;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;609;Petecuy Tercera Etapa;6
+29.0;Hombre;Santander;Bucaramanga;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;609;Petecuy Tercera Etapa;6
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1891;Polvorines;18
+25.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1891;Polvorines;18
+20.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;410;Popular;4
+20.0;Mujer;Nariño;Pasto;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;410;Popular;4
+44.0;No reportado;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;4;;;410;Popular;4
+19.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;410;Popular;4
+22.0;Hombre;Cauca;Popayán;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;410;Popular;4
+28.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;410;Popular;4
+23.0;Intersexual;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;410;Popular;4
+29.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;403;Porvenir;4
+29.0;Hombre;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;403;Porvenir;4
+20.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;403;Porvenir;4
+17.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;2196;Potrero Grande;21
+20.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;21;;;2196;Potrero Grande;21
+23.0;Mujer;Cauca;El Tambo;Media académica o clásica;narrativas;01AGO2018;Ciudadano;21;;;2196;Potrero Grande;21
+21.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1112;Prados de Oriente;11
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1794;Prados del Limonar;17
+18.0;Mujer;Valle del Cauca;Riofrío;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1794;Prados del Limonar;17
+38.0;Hombre;Valle del Cauca;Buenaventura;Especialización;encuentas;25MAR2018;Técnico administración;17;;No;1794;Prados del Limonar;17
+34.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1794;Prados del Limonar;17
+37.0;Hombre;Valle del Cauca;Palmira;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;211;Prados del Norte;2
+19.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;2;;;211;Prados del Norte;2
+17.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;211;Prados del Norte;2
+47.0;Mujer;Valle del Cauca;Guadalajara de Buga;Especialización;encuentas;25MAR2018;Técnico administración;2;;No;211;Prados del Norte;2
+38.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;2;;Si;211;Prados del Norte;2
+16.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;18;;;1808;Prados del Sur;18
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;18;cali_zona_urbana;;1808;Prados del Sur;18
+;Mujer;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;11;;;1122;Primavera;11
+35.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1122;Primavera;11
+35.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;11;;Si;1122;Primavera;11
+31.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1702;Primero de Mayo;17
+21.0;Mujer;Valle del Cauca;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;1702;Primero de Mayo;17
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1702;Primero de Mayo;17
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1702;Primero de Mayo;17
+26.0;Mujer;Antioquia;Medellín;Profesional;encuentas;25MAR2018;Técnico administración;17;;No;1702;Primero de Mayo;17
+25.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1702;Primero de Mayo;17
+19.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;2008;Pueblo Joven;20
+28.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1495;Puerta del Sol;14
+24.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1495;Puerta del Sol;14
+51.0;Intersexual;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1495;Puerta del Sol;14
+14.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;1495;Puerta del Sol;14
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;14;;;1495;Puerta del Sol;14
+31.0;Mujer;Valle del Cauca;;Maestría;narrativas;01AGO2018;Ciudadano;14;;;1495;Puerta del Sol;14
+;Mujer;;;No reportado;narrativas;01AGO2018;Ciudadano;No reportado;;;1495;Puerta del Sol;14
+22.0;Mujer;Nariño;Cumbitara;No reportado;narrativas;09ABR2019;Ciudadano;14;cali_zona_urbana;;1495;Puerta del Sol;14
+18.0;Mujer;Huila;La Plata;No reportado;narrativas;09ABR2019;Ciudadano;7;cali_zona_urbana;;704;Puerto Nuevo;7
+23.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;2101;Pízamos I;21
+21.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2101;Pízamos I;21
+38.0;Hombre;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2195;Pízamos III - Las Dalias;21
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2195;Pízamos III - Las Dalias;21
+28.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;16;cali_zona_urbana;;1602;República de Israel;16
+59.0;Hombre;Córdoba;Montería;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1306;Ricardo Balcázar;13
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1306;Ricardo Balcázar;13
+37.0;Hombre;Atlántico;Barranquilla;Técnica profesional;narrativas;01AGO2018;Ciudadano;13;;;1312;Rodrigo Lara Bonilla;13
+30.0;Hombre;Nariño;;Maestría;narrativas;01AGO2018;Ciudadano;4;;;406;Salomia;4
+49.0;Mujer;Cauca;;Maestría;narrativas;01AGO2018;Ciudadano;No reportado;;;406;Salomia;4
+19.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;6;;;406;Salomia;4
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;406;Salomia;4
+22.0;Hombre;Cauca;Corinto;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;406;Salomia;4
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;406;Salomia;4
+26.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;406;Salomia;4
+29.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;4;;Si;406;Salomia;4
+68.0;Hombre;Atlántico;Barranquilla;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;303;San Antonio;3
+68.0;Mujer;Atlántico;Barranquilla;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;303;San Antonio;3
+38.0;Hombre;Valle del Cauca;Cali;Profesional;narrativas;01AGO2018;Ciudadano;3;;;303;San Antonio;3
+19.0;Mujer;Cauca;Popayán;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;303;San Antonio;3
+25.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;303;San Antonio;3
+15.0;Intersexual;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;303;San Antonio;3
+54.0;Hombre;Huila;Baraya;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;303;San Antonio;3
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;303;San Antonio;3
+26.0;Mujer;Valle del Cauca;Palmira;Profesional;encuentas;25MAR2018;Técnico administración;3;;No;303;San Antonio;3
+60.0;Hombre;Valle del Cauca;Palmira;Profesional;encuentas;25MAR2018;Técnico administración;3;;No;303;San Antonio;3
+29.0;Mujer;;;Tecnológica;encuentas;25MAR2018;Técnico administración;3;;Si;303;San Antonio;3
+37.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;3;;Si;303;San Antonio;3
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1121;San Benito;11
+30.0;Hombre;Valle del Cauca;Cali;Básica secundaria;narrativas;16FEB2017;Ciudadano;No reportado;;;1101;San Carlos;11
+18.0;Mujer;Caquetá;El Doncello;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;304;San Cayetano;3
+41.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;3;;Si;304;San Cayetano;3
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1906;San Fernando Nuevo;19
+35.0;Mujer;Magdalena;Santa Marta;No reportado;encuentas;25MAR2018;Técnico administración;19;;No;1906;San Fernando Nuevo;19
+36.0;Hombre;Valle del Cauca;Palmira;Profesional;encuentas;25MAR2018;Técnico administración;19;;No;1906;San Fernando Nuevo;19
+18.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1910;San Fernando Viejo;19
+34.0;Mujer;Nariño;Pasto;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1910;San Fernando Viejo;19
+43.0;Hombre;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;1910;San Fernando Viejo;19
+17.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1910;San Fernando Viejo;19
+33.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;Maestría;narrativas;01AGO2018;Ciudadano;19;;;1910;San Fernando Viejo;19
+31.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1910;San Fernando Viejo;19
+40.0;Hombre;Valle del Cauca;Guadalajara de Buga;Profesional;encuentas;25MAR2018;Técnico administración;19;;No;1910;San Fernando Viejo;19
+39.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;Maestría;encuentas;25MAR2018;Técnico administración;19;;No;1910;San Fernando Viejo;19
+31.0;Hombre;;;Especialización;encuentas;25MAR2018;Técnico administración;19;;Si;1910;San Fernando Viejo;19
+24.0;Hombre;Caquetá;Valparaíso;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;306;San Juan Bosco;3
+24.0;Mujer;Chocó;Quibdó;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;306;San Juan Bosco;3
+30.0;Mujer;Cauca;Suárez;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;306;San Juan Bosco;3
+22.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;10;;;1017;San Judas Tadeo I Etapa;10
+46.0;Mujer;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;10;;Si;1018;San Judas Tadeo II Etapa;10
+26.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;601;San Luís;6
+76.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;601;San Luís;6
+25.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;601;San Luís;6
+30.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;6;;;601;San Luís;6
+27.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;6;;;601;San Luís;6
+26.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;601;San Luís;6
+19.0;Mujer;Arauca;Tame;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;601;San Luís;6
+27.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;01AGO2018;Ciudadano;6;;;601;San Luís;6
+32.0;Hombre;Bogotá, D.C.;Bogotá, D.C.;Tecnológica;narrativas;01AGO2018;Ciudadano;6;;;601;San Luís;6
+28.0;Hombre;Valle del Cauca;Bolívar;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;601;San Luís;6
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;601;San Luís;6
+21.0;Hombre;Cauca;Argelia;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;601;San Luís;6
+23.0;Hombre;Boyacá;Tunja;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;601;San Luís;6
+27.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+25.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+32.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+25.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+26.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+26.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+74.0;Mujer;No reportado;No reportado;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+28.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+25.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+70.0;Hombre;Valle del Cauca;Argelia;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;696;San Luís II;6
+18.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;6;;;696;San Luís II;6
+27.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;696;San Luís II;6
+29.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;696;San Luís II;6
+28.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;696;San Luís II;6
+28.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;6;;;696;San Luís II;6
+25.0;Mujer;Valle del Cauca;Cali;Normalista;narrativas;01AGO2018;Ciudadano;6;;;696;San Luís II;6
+19.0;Hombre;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;6;;;696;San Luís II;6
+28.0;Mujer;Valle del Cauca;Riofrío;Especialización;encuentas;25MAR2018;Técnico administración;6;;No;696;San Luís II;6
+44.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;No reportado;;;709;San Marino;7
+62.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;312;San Nicolas;3
+71.0;Hombre;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;312;San Nicolas;3
+21.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;3;;;309;San Pascual;3
+20.0;Hombre;Valle del Cauca;Jamundí;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;309;San Pascual;3
+20.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;1778;Santa Anita - La Selva;17
+24.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1778;Santa Anita - La Selva;17
+27.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;17;;Si;1778;Santa Anita - La Selva;17
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1982;Santa Barbara;19
+20.0;Mujer;;;No reportado;narrativas;01AGO2018;Ciudadano;10;;;1004;Santa Elena;10
+18.0;Mujer;Valle del Cauca;Candelaria;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;1004;Santa Elena;10
+34.0;Mujer;Valle del Cauca;Cali;Especialización;narrativas;01AGO2018;Ciudadano;10;;;1004;Santa Elena;10
+20.0;Hombre;Valle del Cauca;Restrepo;Media académica o clásica;narrativas;01AGO2018;Ciudadano;10;;;1004;Santa Elena;10
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1004;Santa Elena;10
+30.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;10;;Si;1004;Santa Elena;10
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;813;Santa Fe;8
+24.0;Hombre;;;Media académica o clásica;encuentas;25MAR2018;Técnico administración;2;;Si;210;Santa Mónica;2
+18.0;Mujer;Bolívar;Cartagena;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;805;Santa Mónica Popular;8
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;805;Santa Mónica Popular;8
+83.0;Mujer;Valle del Cauca;Cali;Ninguno;narrativas;16FEB2017;Ciudadano;No reportado;;;201;Santa Rita;2
+31.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;201;Santa Rita;2
+58.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;201;Santa Rita;2
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;201;Santa Rita;2
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;201;Santa Rita;2
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;201;Santa Rita;2
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;201;Santa Rita;2
+71.0;Mujer;Valle del Cauca;Candelaria;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;307;Santa Rosa;3
+20.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;307;Santa Rosa;3
+19.0;Hombre;Putumayo;Mocoa;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;307;Santa Rosa;3
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;3;cali_zona_urbana;;307;Santa Rosa;3
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;202;Santa Teresita;2
+16.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;402;Santander;4
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;402;Santander;4
+16.0;Hombre;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;4;cali_zona_urbana;;402;Santander;4
+25.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;10;;;1006;Santo Domingo;10
+32.0;Mujer;Cauca;Guapi;No reportado;narrativas;09ABR2019;Ciudadano;10;cali_zona_urbana;;1006;Santo Domingo;10
+39.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;16FEB2017;Ciudadano;No reportado;;;1897;Sector Alto Jordán;18
+34.0;Hombre;;;Profesional;encuentas;25MAR2018;Técnico administración;13;;Si;1399;Sector Asprosocial-Diamante;13
+27.0;Mujer;Cundinamarca;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;19;;;1995;Sector Cañaveralejo Guadalupe Antigua;19
+56.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;6;;;698;Sector Puente del Comercio;6
+8.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;No reportado;;;698;Sector Puente del Comercio;6
+55.0;Mujer;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;7;;;707;Siete de Agosto;7
+30.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;7;cali_zona_urbana;;707;Siete de Agosto;7
+53.0;Hombre;Cauca;Corinto;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2003;Siloé;20
+15.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2003;Siloé;20
+40.0;Mujer;Cauca;Corinto;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2003;Siloé;20
+49.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2003;Siloé;20
+41.0;Mujer;No reportado;No reportado;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2003;Siloé;20
+25.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;20;;;2003;Siloé;20
+20.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;2003;Siloé;20
+17.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;2003;Siloé;20
+37.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2003;Siloé;20
+19.0;Mujer;;;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2003;Siloé;20
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;20;cali_zona_urbana;;2003;Siloé;20
+54.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;909;Sucre;9
+23.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1983;Tejares - Cristales;19
+41.0;Hombre;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;101;Terrón Colorado;1
+20.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;101;Terrón Colorado;1
+26.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;101;Terrón Colorado;1
+26.0;Hombre;Antioquia;Caucasia;Media académica o clásica;narrativas;01AGO2018;Ciudadano;1;;;101;Terrón Colorado;1
+35.0;Hombre;Nariño;Barbacoas;Básica primaria;narrativas;01AGO2018;Ciudadano;1;;;101;Terrón Colorado;1
+26.0;Hombre;Antioquia;Medellín;Media académica o clásica;narrativas;01AGO2018;Ciudadano;15;;;101;Terrón Colorado;1
+26.0;Hombre;Antioquia;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;101;Terrón Colorado;1
+17.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;1;;;101;Terrón Colorado;1
+18.0;Mujer;Antioquia;Marinilla;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+25.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+32.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+19.0;Mujer;Cauca;Timbío;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+16.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;1;cali_zona_urbana;;101;Terrón Colorado;1
+39.0;Mujer;;;Especialización;encuentas;25MAR2018;Técnico administración;20;;Si;2007;Tierra Blanca;20
+50.0;Mujer;Valle del Cauca;Candelaria;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;598;Torres de Comfandi;5
+17.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;5;;;598;Torres de Comfandi;5
+;Mujer;Cauca;Morales;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;598;Torres de Comfandi;5
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;598;Torres de Comfandi;5
+22.0;Mujer;Nariño;San Andres de Tumaco;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;598;Torres de Comfandi;5
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;598;Torres de Comfandi;5
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;598;Torres de Comfandi;5
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;598;Torres de Comfandi;5
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;598;Torres de Comfandi;5
+46.0;Mujer;;;Técnica profesional;encuentas;25MAR2018;Técnico administración;5;;Si;598;Torres de Comfandi;5
+27.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;01AGO2018;Ciudadano;13;;;1301;Ulpiano Lloreda;13
+18.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1791;Unicentro Cali;17
+49.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;17;cali_zona_urbana;;1791;Unicentro Cali;17
+25.0;Mujer;;;Profesional;encuentas;25MAR2018;Técnico administración;4;;Si;419;Unidad Residencial Bueno Madrid;4
+24.0;Mujer;;;Técnica profesional;encuentas;25MAR2018;Técnico administración;4;;Si;419;Unidad Residencial Bueno Madrid;4
+68.0;Mujer;Nariño;Pasto;Básica primaria;narrativas;16FEB2017;Ciudadano;No reportado;;;697;Urbanización Calimio;6
+29.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;697;Urbanización Calimio;6
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;697;Urbanización Calimio;6
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;6;cali_zona_urbana;;697;Urbanización Calimio;6
+54.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2201;Urbanización Ciudad Jardín;22
+19.0;Hombre;Valle del Cauca;;Media académica o clásica;narrativas;01AGO2018;Ciudadano;No reportado;;;2201;Urbanización Ciudad Jardín;22
+30.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;22;;;2201;Urbanización Ciudad Jardín;22
+26.0;Mujer;Valle del Cauca;Cali;Profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;2201;Urbanización Ciudad Jardín;22
+19.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;22;;;2201;Urbanización Ciudad Jardín;22
+18.0;Mujer;Cauca;Popayán;Media académica o clásica;narrativas;01AGO2018;Ciudadano;22;;;2201;Urbanización Ciudad Jardín;22
+;Hombre;;;No reportado;narrativas;01AGO2018;Ciudadano;No reportado;;;2201;Urbanización Ciudad Jardín;22
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2201;Urbanización Ciudad Jardín;22
+19.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2201;Urbanización Ciudad Jardín;22
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2201;Urbanización Ciudad Jardín;22
+20.0;Mujer;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2201;Urbanización Ciudad Jardín;22
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2201;Urbanización Ciudad Jardín;22
+22.0;Mujer;Valle del Cauca;Argelia;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2201;Urbanización Ciudad Jardín;22
+62.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2201;Urbanización Ciudad Jardín;22
+42.0;Hombre;Cauca;Patía;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;1915;Urbanización Colseguros;19
+58.0;Hombre;Valle del Cauca;Tuluá;Maestría;narrativas;01AGO2018;Ciudadano;2;;;293;Urbanización La Merced;2
+60.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;818;Urbanización La Nueva Base;8
+43.0;Mujer;Atlántico;Barranquilla;Técnica profesional;narrativas;16FEB2017;Ciudadano;No reportado;;;818;Urbanización La Nueva Base;8
+18.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;2297;Urbanización Río Lili;22
+18.0;Hombre;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;17;;;2297;Urbanización Río Lili;22
+23.0;Mujer;;;No reportado;narrativas;01AGO2018;Ciudadano;17;;;2297;Urbanización Río Lili;22
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;22;cali_zona_urbana;;2297;Urbanización Río Lili;22
+21.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1904;Urbanización Tequendama;19
+17.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;19;cali_zona_urbana;;1904;Urbanización Tequendama;19
+21.0;Mujer;Valle del Cauca;Buenaventura;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;2198;Valle Grande;21
+16.0;Mujer;La Guajira;Barrancas;Básica primaria;narrativas;01AGO2018;Ciudadano;14;;;2198;Valle Grande;21
+14.0;Hombre;Valle del Cauca;Cali;Básica primaria;narrativas;01AGO2018;Ciudadano;21;;;2198;Valle Grande;21
+26.0;Mujer;Valle del Cauca;Cali;Tecnológica;narrativas;01AGO2018;Ciudadano;21;;;2198;Valle Grande;21
+26.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2198;Valle Grande;21
+16.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2198;Valle Grande;21
+18.0;Mujer;Nariño;Sandoná;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2198;Valle Grande;21
+22.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;21;cali_zona_urbana;;2198;Valle Grande;21
+51.0;Mujer;Cauca;Buenos Aires;Técnica profesional;encuentas;25MAR2018;Técnico administración;21;;No;2198;Valle Grande;21
+20.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;2;;;208;Versalles;2
+;Hombre;Valle del Cauca;Cali;Maestría;narrativas;01AGO2018;Ciudadano;2;;;208;Versalles;2
+17.0;Mujer;Valle del Cauca;Palmira;Técnica profesional;narrativas;01AGO2018;Ciudadano;No reportado;;;208;Versalles;2
+47.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;208;Versalles;2
+23.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;208;Versalles;2
+28.0;Mujer;Bogotá, D.C.;Bogotá, D.C.;Profesional;encuentas;25MAR2018;Técnico administración;2;;No;208;Versalles;2
+18.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;8;;;815;Villa Colombia;8
+20.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;815;Villa Colombia;8
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;8;cali_zona_urbana;;815;Villa Colombia;8
+35.0;Hombre;Valle del Cauca;Buenaventura;Especialización;narrativas;16FEB2017;Ciudadano;No reportado;;;1310;Villa del Lago;13
+36.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;13;cali_zona_urbana;;1310;Villa del Lago;13
+35.0;Hombre;Chocó;Tadó;Media académica o clásica;encuentas;25MAR2018;Técnico administración;13;;No;1310;Villa del Lago;13
+10.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;599;Villa del Prado - El Guabito;5
+18.0;Mujer;Valle del Cauca;Cali;Media académica o clásica;narrativas;01AGO2018;Ciudadano;5;;;599;Villa del Prado - El Guabito;5
+18.0;Mujer;Antioquia;Medellín;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;599;Villa del Prado - El Guabito;5
+18.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;01AGO2018;Ciudadano;5;;;595;Villa del Sol;5
+21.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;5;cali_zona_urbana;;595;Villa del Sol;5
+22.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1114;Villa del Sur;11
+25.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;11;cali_zona_urbana;;1114;Villa del Sur;11
+37.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;1201;Villanueva;12
+18.0;Hombre;Valle del Cauca;Buenaventura;No reportado;narrativas;09ABR2019;Ciudadano;12;cali_zona_urbana;;1201;Villanueva;12
+17.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;12;cali_zona_urbana;;1201;Villanueva;12
+47.0;Hombre;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;294;Vipasa;2
+20.0;Mujer;Valle del Cauca;Cali;Técnica profesional;narrativas;01AGO2018;Ciudadano;2;;;294;Vipasa;2
+18.0;Mujer;Caldas;Manizales;Tecnológica;narrativas;01AGO2018;Ciudadano;No reportado;;;294;Vipasa;2
+58.0;Hombre;Valle del Cauca;El Cerrito;Maestría;narrativas;01AGO2018;Ciudadano;2;;;294;Vipasa;2
+19.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;09ABR2019;Ciudadano;2;cali_zona_urbana;;294;Vipasa;2
+63.0;Mujer;Cauca;Corinto;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;102;Vista Hermosa;1
+16.0;Mujer;Valle del Cauca;Cali;No reportado;narrativas;16FEB2017;Ciudadano;No reportado;;;102;Vista Hermosa;1
