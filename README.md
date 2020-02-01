@@ -14,7 +14,7 @@ Tabla de contenido:
 4. Aplicaciones de referencia
 5. Pruebas
 
-Componentes:
+Componentes (Módulos):
 1. Inicio: Registro Autenticación Perfil
 2. Contextualización: Vistas Territorio / Tiempo / Indicador / Tareas
 3. Navegación: Audio-Lecturas Territorio / Tiempo / Indicador / Tareas
@@ -24,7 +24,7 @@ Componentes:
 6. Gestor de Procedimientos: Diccionarios / Filtros / Conjuntos de Datos
 7. Sincronización Off-Line:
 
-Clases: 
+Clases (Modelo de negocio): 
 1.  Contextos
 2.  Proyectos
 3.  Dimensiones
